@@ -1,0 +1,9 @@
+interface ethernet 1/10
+descriptión config con Nornir
+no switchport
+ip address 192.168.10.1/24
+exit
+interface ethernet 1/11
+descriptión config con Nornir
+no switchport
+ip address 192.168.11.1/24
