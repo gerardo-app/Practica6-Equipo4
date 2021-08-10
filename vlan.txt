@@ -30,3 +30,4 @@ exit
 interface ethernet 1/15
 se mode access
 sw access vlan 15
+exit
